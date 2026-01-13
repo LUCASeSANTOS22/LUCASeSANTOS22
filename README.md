@@ -1,5 +1,26 @@
-## Hi there 👋
+## Hi, I'm Lucas 👋
+Game Programmer focused on C++, Unreal Engine, Unity, and gameplay systems.
 
+🎮 Interests:
+- Gameplay programming
+- Engine-level mechanics
+- Gameplay design
+
+  🛠 Tech:
+- C++, Unreal Engine 5
+- Unity
+- SDL2
+- SDL3
+- OPenGL
+- Vulkan
+- Git, GitHub Desktop
+- Blueprint & C++
+
+  📌 Looking for:
+Junior / Entry-Level Game Programmer roles
+
+🔗 Links:
+- LinkedIn: [www.linkedin.com/in/lucas-santos-3696012b1](https://www.linkedin.com/in/lucas-santos-3696012b1/)
 <!--
 **LUCASeSANTOS22/LUCASeSANTOS22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
