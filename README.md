@@ -19,6 +19,13 @@ Game Programmer focused on C++, Unreal Engine, Unity, and gameplay systems.
   📌 Looking for:
 Junior / Entry-Level Game Programmer roles
 
+## Other Repositories:
+Colloege Midstone Project: [https://github.com/LUCASeSANTOS22/midstoneProject.git](https://github.com/LUCASeSANTOS22/midstoneProject#)
+
+Super Mario Recreation in Unity: [https://github.com/LUCASeSANTOS22/GameRecreation](https://github.com/LUCASeSANTOS22/GameRecreation)
+
+First Unreal 3D project: [https://github.com/LUCASeSANTOS22/Unreal3DProject](https://github.com/LUCASeSANTOS22/Unreal3DProject)
+
 🔗 Links:
 - LinkedIn: [www.linkedin.com/in/lucas-santos-3696012b1](https://www.linkedin.com/in/lucas-santos-3696012b1/)
 <!--
