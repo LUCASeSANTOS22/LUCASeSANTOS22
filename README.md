@@ -26,13 +26,15 @@ Super Mario Recreation in Unity: [https://github.com/LUCASeSANTOS22/GameRecreati
 
 First Unreal 3D project: [https://github.com/LUCASeSANTOS22/Unreal3DProject](https://github.com/LUCASeSANTOS22/Unreal3DProject)
 
-## Lings to other projects
+## Links to other projects
 Recoil [https://youtu.be/dgq9bCRma7A ](https://youtu.be/dgq9bCRma7A)
 
 Build The Maze [https://youtu.be/CvYn9SfuKtE](https://youtu.be/CvYn9SfuKtE)
 
+##
 🔗 Links:
 - LinkedIn: [www.linkedin.com/in/lucas-santos-3696012b1](https://www.linkedin.com/in/lucas-santos-3696012b1/)
+- Youtube Channel: [https://www.youtube.com/@lucassantos-wt3bv](https://www.youtube.com/@lucassantos-wt3bv)
 <!--
 **LUCASeSANTOS22/LUCASeSANTOS22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
