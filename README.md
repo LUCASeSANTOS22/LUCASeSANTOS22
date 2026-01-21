@@ -26,6 +26,11 @@ Super Mario Recreation in Unity: [https://github.com/LUCASeSANTOS22/GameRecreati
 
 First Unreal 3D project: [https://github.com/LUCASeSANTOS22/Unreal3DProject](https://github.com/LUCASeSANTOS22/Unreal3DProject)
 
+## Lings to other projects
+Recoil [https://youtu.be/dgq9bCRma7A ](https://youtu.be/dgq9bCRma7A)
+
+Build The Maze [https://youtu.be/CvYn9SfuKtE](https://youtu.be/CvYn9SfuKtE)
+
 🔗 Links:
 - LinkedIn: [www.linkedin.com/in/lucas-santos-3696012b1](https://www.linkedin.com/in/lucas-santos-3696012b1/)
 <!--
